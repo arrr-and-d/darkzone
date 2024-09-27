@@ -2,7 +2,7 @@
 A fast and flexible screen dimmer
 
 ## Installation 
-Open the Visual Studio solution file and run the project by pressing the F5 key.
+Open the Visual Studio solution file and run the project by pressing `CTRL`+`F5`.
 
 Pre-built binaries will be provided through GitHub releases once the application matures.
 
