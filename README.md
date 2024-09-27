@@ -1,6 +1,10 @@
 # Darkzone
 A fast and flexible screen dimmer
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/b7e1fb23-bde3-4074-a0d6-3ab1465d6e82)
+
+
 ## Installation 
 Open the Visual Studio solution file and run the project by pressing `CTRL`+`F5`.
 
