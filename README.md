@@ -1,5 +1,5 @@
 # Darkzone
-A fast and flexible screen dimmer
+A fast and flexible screen dimmer for Windows
 
 Darkzone is a screen dimmer **overlay window** that can be moved and resized to darken the desired area or "zone" of your screen. The application is designed for gamers & streamers. 
 The opacity or "darkness" of the Darkzone overlay window can be adjusted using keyboard shortcuts while in focus.
